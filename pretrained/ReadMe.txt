@@ -1,0 +1,1 @@
+Paste the pretrained model .pth file into this directory
